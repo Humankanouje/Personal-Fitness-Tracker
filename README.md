@@ -36,7 +36,7 @@ This is a **Personal Fitness Tracker WebApp** built using Python and Streamlit. 
 
 ## 🔍 Output Preview
 
-![screenshot](screenshot.png)
+![screenshot]([screenshot.png](https://github.com/Humankanouje/Personal-Fitness-Tracker/blob/3a795fc58d7680e5992e97da9514090c089b6801/screenshot.png))
 
 
 ## 🤝 Acknowledgements
